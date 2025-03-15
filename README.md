@@ -3,6 +3,8 @@
 ## Overview
 Threat Logger is a simple Django-based cybersecurity application that allows users to log and manage security threats. It is designed to be lightweight, with CRUD operations for storing threat details in a PostgreSQL database. The entire application runs in Docker containers for easy deployment.
 
+Built this to learn Docker and Django
+
 ## Features
 - **Log Security Threats**: Add, update, and delete cybersecurity threats.
 - **Severity Levels**: Categorize threats as Low, Medium, High, or Critical.
